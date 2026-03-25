@@ -1,4 +1,4 @@
-# Menu.nyx
+# Nyx.ps1(menu)
 Menu for Nyx.ps1 (https://github.com/evilsocket/nyx)
 
 **Eng:**
